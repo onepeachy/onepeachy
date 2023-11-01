@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=42D3F7&vCenter=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hello!+This+is+onepeachy!+" alt="Typing SVG" /></a>
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=onepeachy" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onepeachy&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
