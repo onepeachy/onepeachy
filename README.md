@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=3198F7&random=false&width=435&lines=Hello!+This+is+onepeachy!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Simplified+Chinese&duration=4000&pause=1000&random=false&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%96%E6%98%9F%E6%A1%83%E5%AD%90%E7%9A%84Github%E4%B8%BB%E9%A1%B5%E5%91%80%EF%BC%8C%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%AD%A6%E4%B9%A0coding%E7%9F%A5%E8%AF%86%EF%BC%81%EF%BC%81%EF%BC%81" alt="Typing SVG" /></a>
 
 <div align="center">
 <span>  </span>
