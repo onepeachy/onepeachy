@@ -1,18 +1,18 @@
 - uses: Platane/snk@v3
   with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
+    # github 用户名，用于读取贡献图表（**必填**）
+    # 使用 action 上下文变量 `github.repository_owner` 或指定的用户
     github_user_name: ${{ github.repository_owner }}
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
+    # 要生成的文件列表
+    # 每行一个文件。每个输出可以使用查询字符串选项进行自定义
     #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
+    # 支持的选项:
+    # - palette:     颜色预设，可选值为 [github, github-dark, github-light]
+    # - color_snake: 蛇的颜色
+    # - color_dots:  逗号分隔的点的颜色列表。
+    #                第一个颜色对应 0 贡献，然后从低到高贡献依次排列。
+    #                需要提供 5 个颜色。
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
