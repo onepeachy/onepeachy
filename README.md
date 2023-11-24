@@ -10,3 +10,5 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=onepeachy" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onepeachy&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/onepeachy/onepeachy/main/assets/github-contribution-grid-snake.svg" ></div>
