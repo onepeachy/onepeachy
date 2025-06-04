@@ -13,10 +13,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/onepeachy/onepeachy/main/github-snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/onepeachy/onepeachy/main/dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/onepeachy/onepeachy/main/github-snake.svg">
+          srcset="https://raw.githubusercontent.com/onepeachy/onepeachy/main/dist/github-snake.svg">
   <img alt="github-snake"
-       src="https://raw.githubusercontent.com/onepeachy/onepeachy/main/github-snake.svg">
+       src="https://raw.githubusercontent.com/onepeachy/onepeachy/main/dist/github-snake.svg">
 </picture>
 
